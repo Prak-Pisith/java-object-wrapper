@@ -31,6 +31,7 @@ class Main {
         intList.add(4);
         intList.add(34);
         intList.add(89);
+        // Autoboxing
         // Auto wrapped and unwrap (int => Integer)
         int intList0 = intList.get(0);
         System.out.println("intList0 : " + intList0);
